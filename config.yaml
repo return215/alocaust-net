@@ -1,7 +1,7 @@
 ---
 baseURL: https://example.com
 languageCode: en-us
-title: Hugo Novela
+title: Project Alocaust
 pygmentsstyle: monokai
 module:
   imports:
